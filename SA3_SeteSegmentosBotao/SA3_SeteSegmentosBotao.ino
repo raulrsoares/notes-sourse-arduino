@@ -1,6 +1,7 @@
-int timer = 350;
+int timer = 500;
 int pino;
 int cnt = 0;
+
 void setup() {
   for (pino = 0; pino < 4; pino ++) {
     pinMode(pino, OUTPUT);
@@ -14,9 +15,8 @@ void loop()
     cnt++;
     PORTD = cnt;
     delay(timer);
-  }
-
-  if (cnt <= 9) {
-    
+	if (cnt >= 9) { //Se contador for maior ou igual a 9
+    cnt = 0; //Atribui 0 a contador
+  	}
   }
 }
