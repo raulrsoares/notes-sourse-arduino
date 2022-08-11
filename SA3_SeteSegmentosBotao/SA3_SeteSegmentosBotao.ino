@@ -16,7 +16,7 @@ void loop()
     PORTD = cnt;
     delay(timer);
 	if (cnt >= 9) { //Se contador for maior ou igual a 9
-    cnt = 0; //Atribui 0 a contador
+    cnt = -1; //Atribui 0 a contador
   	}
   }
 }
