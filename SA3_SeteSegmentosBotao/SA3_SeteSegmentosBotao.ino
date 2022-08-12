@@ -18,14 +18,6 @@ pinMode(7, INPUT);
 }
 void loop()
 {
-    /*if (digitalRead(7) == 1) {
-    cnt++;
-    PORTD = cnt;
-    delay(timer);
-    if (cnt >= 9) {//Se contador for maior ou igual a 9
-    cnt = -1;//Atribui 0 a contador
-    }
-    }*/
 // ============Vai de 9 direto para 0============
     if (digitalRead(7) == 1) {
         VaiVolta();
