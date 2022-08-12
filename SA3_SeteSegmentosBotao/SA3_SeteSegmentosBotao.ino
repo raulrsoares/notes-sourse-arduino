@@ -41,9 +41,7 @@ void VaiVolta(){
         {
             Decrementa();
         }
-        
     }
-    
 }
 // ============Adiciona 1 na cnt============
 void Incrementa(){
