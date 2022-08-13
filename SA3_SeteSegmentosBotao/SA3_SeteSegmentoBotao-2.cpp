@@ -11,18 +11,11 @@ void loop()
 {
   if (digitalRead(7) == 1) {
     if (cnt >= -1) {
-      if (digitalRead(7) == 1) {
-        cnt++;//Incrementa contador em 1
-        PORTD = cnt;
-        delay(timer);
-      }
+      cnt++;//Incrementa contador em 1
+      PORTD = cnt;
+      delay(timer);
     }
     if (cnt >= 9) {
-      if (digitalRead(7) == 1) {
-        cnt--;//Decrementa contador em 1
-        PORTD = cnt;
-        delay(timer);
-      }
       while (cnt != 0)
       {
         if (digitalRead(7) == 1) {
