@@ -1,0 +1,14 @@
+Setup
+1º define tamanho lcd, 16x2
+2º Escreva Digital em 0,0
+3º Escreva Cronograph 0,1
+4º Defina as pinos 7, 8, 9 como input;
+5º Espere 5s
+6º Limpe a tela 
+7º Escreva tempus fugit em 0,0
+
+Loop
+	1º Se pino 7 for = a 1, comece o cronometro;
+	2º se não print Aperte Start
+	
+
