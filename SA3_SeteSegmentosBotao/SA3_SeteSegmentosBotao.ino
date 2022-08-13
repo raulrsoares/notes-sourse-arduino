@@ -36,7 +36,6 @@ void VaiVolta() {
     Incrementa();
   }
   if (cnt >= 9) {
-    Decrementa();
     while (cnt != 0)
     {
       Decrementa();
