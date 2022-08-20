@@ -14,7 +14,7 @@ int horax0 = 0;
 bool Ini = 0, Para = 0, Zera = 0;
 LiquidCrystal lcd_1(12, 11, 5, 4, 3, 2);
 
-void setup()
+void setup() 
 {
   pinMode(7, INPUT);
   pinMode(8, INPUT);
