@@ -1,0 +1,51 @@
+Raul Rodrigues Soares N°28
+
+
+1 - Determine a ddp que deve ser aplicada a um resistor de resistência 6 Ω para ser atravessado por uma
+corrente elétrica de 2A.
+V = 6 x 2
+V = 12V
+
+
+2 - Um chuveiro elétrico é submetido a uma ddp de 220V,sendo percorrido por uma corrente elétrica de
+10A. Qual é a resistência elétrica do chuveiro?
+22 ohm
+
+
+3 - Nos extremos de um resistor de 200 Ω, aplica-se uma ddp de 24V. Qual a corrente elétrica que
+percorre o resistor?
+i=24/200=12/100=0,12A
+
+
+4 - Uma lâmpada incandescente é submetida a uma ddp de 110V,sendo percorrida por uma corrente
+elétrica de 5,5A. Qual é, nessas condições, o valor da resistência elétrica do filamento da lâmpada.
+R=20ohm
+
+
+5 - Um resistor ôhmico, quando submetido a uma ddp de 20V, é percorrido por uma corrente elétrica de 4 A.
+Para que o resistor seja percorrido por uma corrente elétrica de 3A, que ddp deve ser aplicada a ele?
+U=15V
+
+
+6 - Calcule a resistência elétrica de um resistor que apresenta 10 A de intensidade de corrente elétrica e
+240 V de diferença de potencial (ddp).
+R=20 ohm
+
+
+7 - Uma tensão de 12 volts aplicada a uma resistência de 3,0 Ω produzirá uma corrente de quantos
+ampères?
+i = 4 A
+
+
+8 - Através de um resistor está fluindo uma corrente de 40 A, quando a voltagem de alimentação deste
+resistor é de 60 V. Qual a resistência deste resistor?
+r=6/4 = 3/2 ou 1,5 Ω
+
+
+9 - Que tensão elétrica é necessária para produzir uma corrente de 6 A, em um resistor de 70 Ω?
+T = 420V.
+
+
+10 - Um chuveiro tem resistência de 15 Ω. Qual é a corrente que o percorre, quando ligado a uma
+tensão de 240V?
+i = 16A
